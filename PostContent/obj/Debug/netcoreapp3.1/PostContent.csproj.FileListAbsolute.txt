@@ -1,0 +1,16 @@
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.exe
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.deps.json
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.runtimeconfig.json
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.runtimeconfig.dev.json
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.dll
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\PostContent.pdb
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\bin\Debug\netcoreapp3.1\ZaloDotNetSDK.dll
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.dll
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.pdb
+C:\Users\hoang\OneDrive\Máy tính\PostContent\PostContent\obj\Debug\netcoreapp3.1\PostContent.genruntimeconfig.cache
